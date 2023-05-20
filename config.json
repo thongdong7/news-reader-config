@@ -1,0 +1,58 @@
+{
+    "drawer-links": [
+        {
+            "title": "VNExpress - Thế giới",
+            "data": [
+                "https://vnexpress.net/the-gioi"
+            ]
+        },
+        {
+            "title": "Tuổi trẻ - Thế giới",
+            "data": [
+                "https://tuoitre.vn/the-gioi.htm"
+            ]
+        },
+        {
+            "title": "Thanh Niên - Thế giới",
+            "data": [
+                "https://thanhnien.vn/the-gioi.htm"
+            ]
+        },
+        {
+            "title": "Báo Mới - Thế giới",
+            "data": [
+                "https://baomoi.com/the-gioi.epi"
+            ]
+        },
+        {
+            "title": "VNExpress",
+            "data": [
+                "https://vnexpress.net"
+            ]
+        },
+        {
+            "title": "Tuổi trẻ",
+            "data": [
+                "https://tuoitre.vn"
+            ]
+        },
+        {
+            "title": "Thanh Niên",
+            "data": [
+                "https://thanhnien.vn"
+            ]
+        },
+        {
+            "title": "Báo Mới",
+            "data": [
+                "https://baomoi.com"
+            ]
+        },
+        {
+            "title": "Tinh Tế",
+            "data": [
+                "https://tinhte.vn"
+            ]
+        }
+    ]
+}
