@@ -1,5 +1,6 @@
 {
-    "drawer-links": [
+    "default_link": "https://vnexpress.net/the-gioi",
+    "favorite_links": [
         {
             "title": "VNExpress - Thế giới",
             "data": [
